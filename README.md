@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Arzxy/Unregister-Cmd"><img src="https://github.com/Arzxy/Unregister-Cmd/blob/master/icon.png"></img></a><br>
-    <b>This FloatingTextCreator plugin is completely different from the ones you see on Poggit while that much easier and constantly in active development.</b>
+    <b>This Unregister-Cmd plugin is completely different from the ones you see on Poggit while that much easier and constantly in active development.</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 - [✓] API 3.0.0x
 - [✓] API 4.0.0x
-- [] CONFIG (MAKE EASY TO EDIT)
+- [ ] CONFIG (MAKE EASY TO EDIT)
 
 # Commands that has been deleted
 
