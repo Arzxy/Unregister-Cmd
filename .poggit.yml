@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Arzxy/Unregister-Cmd
+build-by-default: true
+branches:
+- main
+projects:
+  Unregister-Cmd:
+    path: ""
+...
