@@ -16,9 +16,9 @@
 
 # Planned features
 
-- [✓] API 3.0.0x
-- [✓] API 4.0.0x
-- [ ] CONFIG (MAKE EASY TO EDIT)
+- [ ✓ ] API 3.0.0x
+- [ ✓ ] API 4.0.0x
+- [ ✓ ] CONFIG (MAKE EASY TO EDIT)
 
 # Commands that has been deleted
 
