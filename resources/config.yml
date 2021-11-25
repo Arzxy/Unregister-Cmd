@@ -1,0 +1,6 @@
+#CONFIG_VERSION: 1.0
+
+#DEFAULT = TRUE
+unregister-cmd-enable: true
+
+cmd-for-delete: ['version', 'example1', 'etc']
