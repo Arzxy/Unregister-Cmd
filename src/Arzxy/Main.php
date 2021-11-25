@@ -34,14 +34,18 @@ class Main extends PluginBase{
 
     public function onEnable(): void
     {
-    	$commands = ['version'];
+    	$this->getLogger()->info("§bUnregister-Command Enabled By @Arzxy");
+    
+    
+    	$string = $this->getConfig()->get("cmd-for-delete");
+    $top = $this->getConfig()->get("unregister-cmd-enable");
+    if($top == "true"){
+    	$commands = $string;
         $map = $this->getServer()->getCommandMap();
 
      foreach ($commands as $cmd){
-        $map->unregister($map->getCommand($cmd)); 
-    }
-    
+        $map->unregister($map->getCommand($cmd));
+        }
+     }
   }
-  
-  
 }
