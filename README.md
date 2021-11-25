@@ -25,3 +25,5 @@
 |Command|Description|Remove / Delete|
 |:--:|:--:|:--:|
 |/version|For see your version pmmp/server |` ✓`
+|/ver|For see your version pmmp/server |` ✓`
+|/about|For see your version pmmp/server |` ✓`
