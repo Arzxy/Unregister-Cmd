@@ -5,5 +5,5 @@ branches:
 projects:
   Unregister-Cmd:
     path: ""
-    icon: "assets/icon.png"
+    icon: "icon.png"
 ...
